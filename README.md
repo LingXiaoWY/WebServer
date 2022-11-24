@@ -22,7 +22,7 @@ Demo演示
 
 > * 请求图片文件演示(6M)
 
-<div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0juxrnlfg30go07x4qr.gif" height="429"/> </div>
+<div align=center><img src="https://voidtech.cn/i/2022/11/24/xggo2e.jpg" height="429"/> </div>
 
 > * 请求视频文件演示(39M)
 
