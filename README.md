@@ -20,11 +20,11 @@ Demo演示
 
 <div align=center><img src="https://github.com/qinguoyi/TinyWebServer/blob/master/root/login.gif" height="429"/> </div>
 
-> * 请求图片文件演示(6M)
+> * 请求图片文件演示
 
-<div align=center><img src="https://voidtech.cn/i/2022/11/24/xggo2e.jpg" height="429"/> </div>
+<div align=center><img src="https://voidtech.cn/i/2022/11/25/lpwncq.png" height="429"/> </div>
 
-> * 请求视频文件演示(39M)
+> * 请求视频文件演示
 
 <div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0jtxie8ng30go07xb2b.gif" height="429"/> </div>
 
