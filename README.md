@@ -12,7 +12,7 @@ WebServer
 
 WebServer类图
 -------------
-<div align=center><img src="https://img9999.wchunge.cn/i/2022/12/08/qglwz7.jpg" /> </div>
+<div align=center><img src="https://img9999.wchunge.cn/i/2022/12/08/qglwz7.jpg" height="765"/> </div>
 
 框架
 -------------
