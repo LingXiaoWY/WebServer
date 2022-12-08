@@ -6,6 +6,14 @@ WebServer
 * 实现**同步/异步日志系统**，记录服务器运行状态
 * 经Webbench压力测试可以实现**上万的并发连接**数据交换
 
+浏览器与服务器交互流程图
+-------------
+<div align=center><img src="https://img9999.wchunge.cn/i/2022/12/08/qgmj6o.jpg" height="765"/> </div>
+
+WebServer类图
+-------------
+<div align=center><img src="https://img9999.wchunge.cn/i/2022/12/08/qglwz7.jpg" height="765"/> </div>
+
 框架
 -------------
 <div align=center><img src="http://ww1.sinaimg.cn/large/005TJ2c7ly1ge0j1atq5hj30g60lm0w4.jpg" height="765"/> </div>
