@@ -28,9 +28,6 @@ Demo演示
 
 <div align=center><img src="https://github.com/qinguoyi/TinyWebServer/blob/master/root/login.gif" height="429"/> </div>
 
-> * 请求图片文件演示
-
-<div align=center><img src="https://voidtech.cn/i/2022/11/25/lpwncq.png" height="429"/> </div>
 
 > * 请求视频文件演示
 
@@ -66,7 +63,7 @@ Demo演示
 **注意：** 使用本项目的webbench进行压测时，若报错显示webbench命令找不到，将可执行文件webbench删除后，重新编译即可。
 ------------
 * 服务器测试环境
-	* Ubuntu版本16.04
+	* Ubuntu版本20.04
 	* MySQL版本5.7.29
 * 浏览器测试环境
 	* Windows、Linux均可
